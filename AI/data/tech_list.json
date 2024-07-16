@@ -1,0 +1,71 @@
+{
+  "Cloud_Computing": {
+    "Providers": ["AWS", "Azure", "Google Cloud", "IBM Cloud"],
+    "Tools": ["Kubernetes", "Docker", "Terraform", "Ansible"]
+  },
+  "Frontend_Development": {
+    "JavaScript": ["React", "Angular", "Vue"],
+    "CSS_Frameworks": ["Bootstrap", "Tailwind CSS", "Tailwind", "Foundation"],
+    "Tooling": ["Webpack", "Babel", "ESLint"]
+  },
+  "Backend_Development": {
+    "Languages": ["Node.js","Python", "Java", "Ruby"],
+    "Frameworks": [ "Express.js", "Django", "Spring Boot", "Spring", "Rails", "Ruby on Rails"]
+  },
+  "Database_Technologies": {
+    "SQL": ["PostgreSQL", "Postgres", "MySQL", "SQL Server", "Microsoft SQL Server"],
+    "NoSQL": ["MongoDB", "Cassandra", "Redis"]
+  },
+  "AI_and_Machine_Learning": {
+    "Libraries": ["TensorFlow", "PyTorch", "Torch", "Scikit-learn", "sklearn"],
+    "Platforms": ["Google AI Platform", "Azure Machine Learning", "AWS SageMaker", "Amazon SageMaker"]
+  },
+  "DevOps_Tools": {
+    "CI/CD": ["Jenkins", "CircleCI", "GitHub Actions"],
+    "Infrastructure_as_Code": ["Terraform", "AWS CloudFormation", "Amazon CloudFormation", "CloudFormation"]
+  },
+  "Networking_Technologies": {
+    "SDN": ["Cisco ACI", "VMware NSX"],
+    "Load_Balancers": ["F5 Networks", "F5", "HAProxy"]
+  },
+  "Quality_Assurance": {
+    "Automation_Tools": ["Selenium", "Cypress", "TestCafe"],
+    "Performance_Testing": ["JMeter", "Apache JMeter", "LoadRunner", "Micro Focus LoadRunner"]
+  },
+  "Blockchain": {
+    "Platforms": ["Ethereum", "Hyperledger Fabric", "Cardano"],
+    "Tools": ["Truffle", "Ganache"]
+  },
+  "Cybersecurity": {
+    "Tools": ["Wireshark", "Metasploit"],
+    "Firewalls": ["Palo Alto Networks", "Palo Alto", "Fortinet"]
+  },
+  "Mobile_Development": {
+    "Frameworks": ["React Native", "ReactNative", "Flutter", "Xamarin"],
+    "Native_Development": ["Swift", "Kotlin"]
+  },
+  "Internet_of_Things": {
+    "Platforms": ["AWS IoT", "Amazon IoT", "Azure IoT Hub", "Google Cloud IoT", "GCP IoT"],
+    "Protocols": ["MQTT", "CoAP"]
+  },
+  "Augmented_and_Virtual_Reality": {
+    "Tools": ["Unity", "Unreal Engine", "UE"],
+    "SDKs": ["ARKit", "ARCore"]
+  },
+  "Edge_Computing": {
+    "Platforms": ["AWS Greengrass", "Amazon Greengrass", "Azure IoT Edge"],
+    "Frameworks": ["OpenFog"]
+  },
+  "Sustainability_in_Technology": {
+    "Energy_Monitoring": ["Power BI", "Microsoft Power BI", "Tableau"],
+    "Carbon_Tracking": ["Salesforce Sustainability Cloud", "Salesforce"]
+  },
+  "Data_Engineering": {
+    "Tools": ["Apache Hadoop", "Hadoop", "Apache Spark", "Spark"],
+    "Streaming": ["Apache Kafka", "Kafka", "Apache Flink", "Flink"]
+  },
+  "Data_Science": {
+    "Programming_Languages": ["Python", "R"],
+    "Visualization_Tools": ["Tableau", "Power BI", "Microsoft Power BI"]
+  }
+}
